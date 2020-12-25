@@ -1,3 +1,5 @@
+export QT_QPA_PLATFORMTHEME=qt5ct
+
 alias s='sudo'
 alias ss='sudo systemctl'
 alias p='pikaur'
@@ -10,6 +12,7 @@ alias py='python'
 alias rg='ranger'
 alias vq='vi .config/qtile/config.py'
 alias gg='git grep'
+alias xr='nvidia-xrun qtile'
 
 # autoload prompt themes
 autoload -Uz promptinit
