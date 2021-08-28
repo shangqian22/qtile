@@ -2,5 +2,5 @@
 My window manager in Python
 
 # Pymotion
-Mouse simulation in Python
+Mouse simulation
 ![](pymotion.gif)
